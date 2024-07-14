@@ -1,0 +1,6 @@
+*.csproj
+.vs
+
+bin
+obj
+packages
